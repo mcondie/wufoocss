@@ -26,10 +26,6 @@ html{
 	background-size: 40px 40px;
 }
 
-#logo a::after{
-	content: "THE COWSHARE";
-}
-
 #logo{
 	  padding-top: 20px;
     padding-left: 20px;
