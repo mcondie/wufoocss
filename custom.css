@@ -26,8 +26,8 @@ html{
 	background-size: 40px 40px;
 }
 
-#logo a::content{
-	THE COWSHARE
+#logo a::after{
+	content: "THE COWSHARE";
 }
 
 #logo{
